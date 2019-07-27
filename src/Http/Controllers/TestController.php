@@ -15,6 +15,6 @@ class TestController extends Controller
 {
     public function index()
     {
-        return '这是一个测试类';
+        return '这是一个测试类1';
     }
 }
