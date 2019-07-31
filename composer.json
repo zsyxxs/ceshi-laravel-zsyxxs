@@ -13,5 +13,12 @@
         "psr-4": {
             "Zhang\\SjunitLaravel\\": "src"
         }
+    },
+    "extra" : {
+        "laravel" : {
+            "providers" : [
+                "Zhang\\SjunitLaravel\\Providers\\SJunitServiceProvider"
+            ]
+        }
     }
 }
